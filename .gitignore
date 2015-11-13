@@ -1,7 +1,16 @@
 *.class
+*.ipr
+*.iml
+*.bat
+*.iws
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.gradle/
+gradle/
+build.gradle
+.DS_store
+
 
 # Package Files #
 *.jar
